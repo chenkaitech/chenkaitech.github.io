@@ -1,0 +1,9 @@
+{
+  "name": "CXY Studio",
+  "short_name": "CXY Studio",
+  "description": "Useful, privacy-first apps by Kai Chen.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0b1b4d"
+}
